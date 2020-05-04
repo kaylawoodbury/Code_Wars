@@ -6,6 +6,7 @@
 
 
 ### <a name="7KYU">7 KYU</a>
+* [Beginner Series #3 Sum of Numbers](6KYU/beginner_series_3_sum_of_numbers.rb) - [CodeWars](https://www.codewars.com/kata/55f2b110f61eb01779000053)
 
 ### <a name="6KYU">6 KYU</a>
 * [Find the odd int](6KYU/find_odd_int.rb) - [CodeWars](https://www.codewars.com/kata/54da5a58ea159efa38000836)

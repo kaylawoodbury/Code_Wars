@@ -3,7 +3,7 @@
 [8 KYU](#8KYU) | [7 KYU](#7KYU) | [6 KYU](#6KYU) | [5 KYU](#5KYU) | [4 KYU](#4KYU) | [3 KYU](#3KYU) | [2 KYU](#2KYU) | [1 KYU](#1KYU) 
 
 ### <a name="8KYU">8 KYU</a>
-
+* [DNA to RNA COnversion](6KYU/DnaToRnaConversion.js) - [CodeWars](https://www.codewars.com/kata/5556282156230d0e5e000089)
 
 ### <a name="7KYU">7 KYU</a>
 

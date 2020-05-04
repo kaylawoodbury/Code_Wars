@@ -8,4 +8,5 @@
 ### <a name="7KYU">7 KYU</a>
 * [SQL Basics: Simple Join with Count](7KYU/SimpleJoinWithCount.sql) - [CodeWars](https://www.codewars.com/kata/580918e24a85b05ad000010c)
 
-### <a name="6KYU">6 KYU</a>
+### <a name="8KYU">8 KYU</a>
+* [Siple Where and Order By](8KYU/WhereAndOrderBy.sql) - [CodeWars](https://www.codewars.com/kata/5809508cc47d327c12000084)
